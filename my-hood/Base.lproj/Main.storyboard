@@ -185,7 +185,7 @@
                                     <constraint firstAttribute="height" constant="65" id="phv-h6-yTc"/>
                                 </constraints>
                             </view>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="test-image" translatesAutoresizingMaskIntoConstraints="NO" id="gC6-Df-u12" customClass="RoundedImage" customModule="my_hood" customModuleProvider="target">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="gC6-Df-u12" customClass="RoundedImage" customModule="my_hood" customModuleProvider="target">
                                 <rect key="frame" x="180" y="93" width="240" height="240"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="240" id="6ME-KW-yG8"/>
@@ -202,7 +202,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-CondensedBold" family="Helvetica Neue" pointSize="45"/>
                                 <state key="normal" title="+ Add Pic">
-                                    <color key="titleColor" red="0.90196079019999997" green="0.90196079019999997" blue="0.90196079019999997" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleColor" red="0.60000002379999995" green="0.60000002379999995" blue="0.60000002379999995" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="addPicButtonPressed:" destination="swX-o4-mb0" eventType="touchUpInside" id="URF-RC-LJr"/>
